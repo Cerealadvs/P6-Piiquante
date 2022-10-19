@@ -1,0 +1,21 @@
+npm audit
+création du dossier:
+
+{
+cd frontend
+npm install
+
+Dans le dossier fontend: npm run start.
+Accès au lien: http://localhost:4200
+}
+
+{
+cd backend
+npm init -> server.js
+npm install -g nodemon
+
+Dans le dossier backend: nodemon server.
+Accès au lien: http://localhost:3000
+
+npm install
+}
